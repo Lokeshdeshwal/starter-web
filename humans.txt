@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lokesh Associate software developer 
 
 # THANKS
 
